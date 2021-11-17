@@ -21,6 +21,7 @@ That's the sighting!
 The webpage is easy to read, provides an information overview and a table that the user can interact with, thus making it interesting. Using the JavaScript into a HTML page and creating functions to create filters then filtereing the data and rebuilding a table on the user input is nice. The multi-level filtering function does a good job providing the information quickly.  
 
 Limitations:
+
 Filtering data has some limitations, such as ensuring one types the correct filter.  For example, typing "lights" versus the exact word "light" under shape returns no data.  This could lead to the user assuming no reporting of "lights".  
 
 Recommendations:
